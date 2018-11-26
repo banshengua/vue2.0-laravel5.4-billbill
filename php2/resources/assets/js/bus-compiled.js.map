@@ -1,0 +1,1 @@
+{"version":3,"sources":["bus.js"],"names":[],"mappings":";;;;;;;AAAA;;;;;;AACO,IAAM,8BAAW,mBAAjB","file":"bus-compiled.js","sourcesContent":["import Vue from 'vue';\r\nexport const EventBus = new Vue();"]}
